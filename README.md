@@ -1,4 +1,4 @@
-# NFT Contracts For Party Beavers
+# NFT Contracts For Loxar
 
 ## Tech Stack
 
