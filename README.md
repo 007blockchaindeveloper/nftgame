@@ -1,5 +1,9 @@
 # NFT Contracts For Loxar
 
+This is the source code for Loxar NFT game
+
+https://www.loxar.games/
+
 ## Tech Stack
 
 - OpenZeppelin
